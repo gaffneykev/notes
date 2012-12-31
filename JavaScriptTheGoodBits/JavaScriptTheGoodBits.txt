@@ -1,2 +1,6 @@
-Hello World!
 
+Recursion
+JavaScript does not offer tail recursion
+
+Scope
+Javascript does not have block scope - it has function scope.
